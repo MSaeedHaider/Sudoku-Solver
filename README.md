@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Data Structures and Algorithms Project
+This Project highlights the concept of recursion in DSA.
